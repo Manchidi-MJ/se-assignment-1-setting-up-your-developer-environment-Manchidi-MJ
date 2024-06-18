@@ -52,3 +52,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+ANSWERS/SUBMISSION TO THE ASSIGNMENT
+THE LINK BELOW IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTION. ATTACHED TO IT IS A LINK TO MY INITIALIZED GITHUB REPOSITORY
+file:///C:/Users/johnm/OneDrive%20-%20University%20of%20Limpopo/Documents/PLP%20WORK/Manchidi_MJ%20Assignment%201.pdf
